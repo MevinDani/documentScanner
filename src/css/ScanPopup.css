@@ -1,0 +1,11 @@
+.QrScannerWrapper{
+    width: 100%;
+    height: 100%;
+    max-width: 500px;
+    max-height: 500px;
+}
+.ScanPopup-header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
